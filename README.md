@@ -1,9 +1,4 @@
 # Data-Projects-Deka
-All Data related projects
-
-<br>
-
-## AWS
 
 #### AWS Blog - Python ETL + Data Wrangler
 
