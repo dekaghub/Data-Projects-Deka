@@ -1,0 +1,677 @@
+,Artist
+0,"{'SBTRKT': 'England', 'Roses Gabor': 'United Kingdom'}"
+1,{'Ozuna': 'Puerto Rico'}
+2,"{'Dwson': 'N/A', 'Sio': 'N/A'}"
+3,{'Biyo': 'N/A'}
+4,{'Pat Lok': 'N/A'}
+5,"{'Young Franco': 'Australia', 'Blair De Milo': 'N/A'}"
+6,{'Garden City Movement': 'Israel'}
+7,{'Young the Giant': 'U.S.'}
+8,{'The Strokes': 'U.S.'}
+9,{'Sigrid': 'Norway'}
+10,"{'Cupidon': 'N/A', 'UMI': 'N/A'}"
+11,{'St. Vincent': 'U.S.'}
+12,"{'Billie Eilish': 'U.S.', 'Vince Staples': 'U.S.'}"
+13,{'Rostam': 'Afghanistan'}
+14,{'C. Tangana': 'Spain'}
+15,{'TEMPOREX': 'N/A'}
+16,{'Rice & Beans Orchestra': 'N/A'}
+17,"{'Whethan': 'US', 'Oliver Tree': 'U.S.'}"
+18,{'Saison': 'United Kingdom'}
+19,{'Paramore': 'U.S.'}
+20,{'EARTHGANG': 'U.S.'}
+21,"{'Calvin Harris': 'Scotland', 'Dua Lipa': 'England'}"
+22,{'Two Door Cinema Club': 'Ireland'}
+23,"{'Nao': 'N/A', 'Shareware': 'N/A'}"
+24,"{'Leon': 'Japan', 'Shaf Huse': 'Italy'}"
+25,{'Jarami': 'Sweden'}
+26,{'Codes': 'United States of America'}
+27,"{'Kendrick Lamar': 'U.S.', 'SZA': 'U.S.'}"
+28,{'BENEE': 'New Zealand'}
+29,{'Miguel Bastida': 'N/A'}
+30,{'Cut Snake': 'Australia'}
+31,{'SHAED': 'United States of America'}
+32,{'Latmun': 'United Kingdom'}
+33,{'Evergreen': 'N/A'}
+34,{'Dauwd': 'United Kingdom'}
+35,{'Phoenix': 'France'}
+36,{'Gibbz': 'N/A'}
+37,{'Hippo Campus': 'N/A'}
+38,"{'Solardo': 'United Kingdom', 'Wade': 'Spain'}"
+39,"{'Satin Jackets': 'Germany', 'Panama': 'N/A'}"
+40,{'SHAED': 'United States of America'}
+41,"{'Chocolate Puma': 'Netherlands', 'Tommie Sunshine': 'U.S.', 'DJ Funk': 'United States'}"
+42,{'Croatia Squad': 'N/A'}
+43,{'Cleopold': 'N/A'}
+44,{'Rebūke': 'Ireland'}
+45,"{'Prunk': 'Slovenia', 'Aron Volta': 'N/A'}"
+46,{'S.A.M.': 'Netherlands'}
+47,"{'Jamie Jones': 'Wales', 'Darius Syrossian': 'N/A'}"
+48,"{'Jamie Jones': 'Wales', 'The Martinez Brothers': 'N/A'}"
+49,{'Sidney Charles': 'Germany'}
+50,{'Audioslave': 'U.S.'}
+51,{'Rubblebucket': 'United States'}
+52,{'Foo Fighters': 'U.S.'}
+53,{'Queens of the Stone Age': 'U.S.'}
+54,"{'Men I Trust': 'Canada', 'Geoffroy': 'N/A', 'Gabrielle': 'Norway'}"
+55,{'SBTRKT': 'England'}
+56,{'Remi Wolf': 'U.S.'}
+57,"{'Chris Stussy': 'N/A', 'Bas Roos': 'N/A'}"
+58,"{'Skream': 'England', 'Michael Bibi': 'N/A'}"
+59,{'Haywyre': 'U.S.'}
+60,{'Dirty Projectors': 'United States'}
+61,"{'Future': 'U.S.', 'Drake': 'Canada'}"
+62,{'Arizona Zervas': 'U.S.'}
+63,{'JAWNY': 'U.S.'}
+64,{'blackbear': 'U.S.'}
+65,{'The Script': 'Ireland'}
+66,{'Jordan Rakei': 'Australia'}
+67,"{'Cosmo Sheldrake': 'England', 'Mr Jukes': 'England'}"
+68,{'Millie Turner': 'N/A'}
+69,{'Drake': 'Canada'}
+70,{'Calvin Harris': 'Scotland'}
+71,{'Ben Westbeech': 'England'}
+72,{'Alex Preston': 'N/A'}
+73,{'Twenty One Pilots': 'U.S.'}
+74,{'Verzache': 'Canada'}
+75,"{'Charlie Lim': 'Singapore', 'Halal Sol': 'N/A'}"
+76,{'Yelle': 'France'}
+77,{'The Go! Team': 'England'}
+78,{'Seether': 'South Africa'}
+79,{'The Shins': 'U.S.'}
+80,{'Amerie': 'U.S.'}
+81,{'Friendly Fires': 'England'}
+82,{'Goldspot': 'United States'}
+83,{'The Strokes': 'U.S.'}
+84,"{'niko+': 'N/A', 'Clans': 'N/A'}"
+85,{'Sure Sure': 'N/A'}
+86,{'Firehorse': 'N/A'}
+87,{'Incubus': 'U.S.'}
+88,{'Oliver Tree': 'U.S.'}
+89,{'53 Thieves': 'N/A'}
+90,{'Joss Moog': 'N/A'}
+91,"{'David Guetta': 'France', 'Kid Cudi': 'U.S.'}"
+92,{'Dreamer Boy': 'N/A'}
+93,{'Lorde': 'New Zealand'}
+94,{'Delroy Edwards': 'U.S.'}
+95,{'Romare': 'N/A'}
+96,"{'Max Graef': 'N/A', 'Glenn Astro': 'N/A'}"
+97,"{'BAYNK': 'N/A', 'Golden Vessel': 'N/A'}"
+98,{'Elujay': 'N/A'}
+99,{'NEIL FRANCES': 'N/A'}
+100,"{'Calvin Harris': 'Scotland', 'Frank Ocean': 'U.S.', 'Migos': 'U.S.', 'Funk Wav': 'N/A'}"
+101,"{'Max Chapman': 'N/A', 'Teeja': 'N/A'}"
+102,"{'Wingtip': 'N/A', 'Sophie Strauss': 'N/A'}"
+103,{'Kan Sano': 'N/A'}
+104,{'Kan Sano': 'N/A'}
+105,{'Felipe Gordon': 'Colombia'}
+106,{'Magic In Threes': 'N/A'}
+107,{'Avenged Sevenfold': 'U.S.'}
+108,"{'Drake': 'Canada', 'Quavo': 'U.S.', 'Travis Scott': 'U.S.'}"
+109,{'Céu': 'Brazil'}
+110,{'Digitalism': 'Germany'}
+111,{'Céu': 'Brazil'}
+112,{'Charlie Brown Jr.': 'Brazil'}
+113,{'Imagine Dragons': 'U.S.'}
+114,{'Bloc Party': 'England'}
+115,{'Beck': 'U.S.'}
+116,{'Bloc Party': 'England'}
+117,{'Bloc Party': 'England'}
+118,{'Blxst': 'U.S.'}
+119,{'Charlie Brown Jr.': 'Brazil'}
+120,{'Beck': 'U.S.'}
+121,{'Beck': 'U.S.'}
+122,"{'Emotional Oranges': 'U.S.', 'Channel Tres': 'U.S.'}"
+123,{'Ocean Wisdom': 'England'}
+124,{'Ace DaGoatShaman': 'N/A'}
+125,"{'Verzache': 'Canada', 'Swell': 'N/A'}"
+126,{'Verzache': 'Canada'}
+127,"{'King Green': 'N/A', 'Vanela': 'N/A'}"
+128,"{'KIDS SEE GHOSTS': 'N/A', 'Louis Prima': 'U.S.'}"
+129,{'ROSALÍA': 'N/A'}
+130,"{'Mosie': 'N/A', 'Les Lapins Lundis': 'N/A'}"
+131,{'Biyo': 'N/A'}
+132,{'O2worldwide': 'N/A'}
+133,"{'Brent Faiyaz': 'U.S.', 'DJ Dahi': 'U.S.', 'Tyler': 'U.S.', ' The Creator': 'N/A'}"
+134,{'DJ Seinfeld': 'N/A'}
+135,"{'Lil Baby': 'U.S.', 'Gunna': 'U.S.'}"
+136,{'Travis Scott': 'U.S.'}
+137,{'Future': 'U.S.'}
+138,{'Friday Pilots Club': 'N/A'}
+139,{'Friday Pilots Club': 'N/A'}
+140,{'Friday Pilots Club': 'N/A'}
+141,"{'Junior H': 'Mexico', 'Natanael Cano': 'Mexico'}"
+142,{'Natanael Cano': 'Mexico'}
+143,{'Junior H': 'Mexico'}
+144,"{'Billy Lemos': 'N/A', 'Omar Apollo': 'U.S.'}"
+145,{'Mt. Joy': 'U.S.'}
+146,{'Mt. Joy': 'U.S.'}
+147,{'Juanes': 'Colombia'}
+148,{'Grizzly Bear': 'US'}
+149,{'STRFKR': 'U.S.'}
+150,"{'KAYTRANADA': 'Canada', 'Kali Uchis': 'U.S.'}"
+151,{'Pinback': 'U.S.'}
+152,"{'Eslabon Armado': 'United States', 'T3R Elemento': 'N/A'}"
+153,{'Roza': 'N/A'}
+154,{'Maluma': 'Colombia'}
+155,{'Maluma': 'Colombia'}
+156,"{'Christian Martin': 'N/A', 'Ardalan': 'N/A'}"
+157,{'Gigamesh': 'N/A'}
+158,"{'ANAVITÓRIA': 'N/A', 'Vitor Kley': 'N/A'}"
+159,"{'Rochy RD': 'N/A', 'Myke Towers': 'Puerto Rico', 'Nicki Nicole': 'Argentina'}"
+160,{'Diskopunk': 'N/A'}
+161,{'Oliver Tree': 'U.S.'}
+162,{'Yarah Bravo': 'N/A'}
+163,{'Soccer Mommy': 'U.S.'}
+164,{'LP Septet': 'N/A'}
+165,{'Bullet For My Valentine': 'Wales'}
+166,{'ROSALÍA': 'N/A'}
+167,"{'ROSALÍA': 'N/A', 'J Balvin': 'Colombia', 'El Guincho': 'Spain'}"
+168,"{'Lil Yachty': 'U.S.', 'Louie Ray': 'N/A'}"
+169,{'Lil Yachty': 'U.S.'}
+170,"{'Jean Dawson': 'N/A', 'A$AP Rocky': 'U.S.'}"
+171,{'Sacha Distel': 'France'}
+172,{'Leon Bridges': 'U.S.'}
+173,{'Cut Copy': 'Australia'}
+174,{'tricot': 'Japan'}
+175,{'Justin Jay': 'N/A'}
+176,{'BROCKHAMPTON': 'U.S.'}
+177,"{'DEAN': 'N/A', 'Syd': 'N/A'}"
+178,{'Veil Of Maya': 'U.S.'}
+179,{'The Strokes': 'U.S.'}
+180,{'Red Hot Chili Peppers': 'U.S.'}
+181,{'Walker Hayes': 'U.S.'}
+182,{'Pinback': 'U.S.'}
+183,{'PinkPantheress': 'England'}
+184,{'PinkPantheress': 'England'}
+185,{'Freddie Dredd': 'N/A'}
+186,{'Norah Jones': 'U.S.'}
+187,"{'Crayon': 'N/A', 'KLP': 'Wales'}"
+188,{'The Maccabees': 'England'}
+189,{'Joy Again': 'N/A'}
+190,"{'Sasha': 'N/A', ' Benny y Erik': 'N/A'}"
+191,{'Arctic Monkeys': 'England'}
+192,{'Kainalu': 'N/A'}
+193,"{'Disclosure': 'England', 'Eliza Doolittle': 'N/A', 'Flume': 'Australia'}"
+194,"{'BENEE': 'New Zealand', 'Gus Dapperton': 'U.S.'}"
+195,{'Unwritten Law': 'United States'}
+196,{'Betcha': 'United States'}
+197,{'Prelow': 'N/A'}
+198,{'Incubus': 'U.S.'}
+199,{'Zach Criss': 'N/A'}
+200,"{'Marc Bianco': 'France', 'Taphari': 'N/A'}"
+201,{'Future': 'U.S.'}
+202,{'HUNNY': 'U.S.'}
+203,{'Thirty Seconds To Mars': 'U.S.'}
+204,{'WALK THE MOON': 'U.S.'}
+205,{'Foo Fighters': 'U.S.'}
+206,{'Foo Fighters': 'U.S.'}
+207,{'Nirvana': 'U.S.'}
+208,{'Rise Against': 'U.S.'}
+209,{'Rise Against': 'U.S.'}
+210,{'Rise Against': 'U.S.'}
+211,{'Anthrax': 'N/A'}
+212,{'Kings of Convenience': 'Norway'}
+213,{'Kings of Convenience': 'Norway'}
+214,"{'Gunna': 'U.S.', 'Future': 'U.S.'}"
+215,{'Albert Hammond Jr': 'U.S.'}
+216,{'Last Dinosaurs': 'Australia'}
+217,"{'Freddie Joachim': 'N/A', 'Natalie Oliveri': 'N/A'}"
+218,{'Nohidea': 'N/A'}
+219,{'Shindig': 'N/A'}
+220,{'Uppermost': 'France'}
+221,{'Two Hidden Labs': 'N/A'}
+222,{'Two Hidden Labs': 'N/A'}
+223,{'Two Hidden Labs': 'N/A'}
+224,{'Andrew Applepie': 'Germany'}
+225,{'Andrew Applepie': 'Germany'}
+226,{'Andrew Applepie': 'Germany'}
+227,{'Bakar': 'England'}
+228,{'The Exies': 'U.S.'}
+229,{'The Technicolors': 'United States of America'}
+230,{'The Technicolors': 'United States of America'}
+231,{'DREAMERS': 'U.S.'}
+232,{'Airways': 'N/A'}
+233,{'DREAMERS': 'U.S.'}
+234,{'Saint Motel': 'US'}
+235,{'Saint Motel': 'US'}
+236,{'Saint Motel': 'US'}
+237,{'Hippo Campus': 'N/A'}
+238,{'Counterfit': 'N/A'}
+239,{'Jason Mraz': 'U.S.'}
+240,{'Punch Brothers': 'United States'}
+241,"{'Jason Mraz': 'U.S.', 'Colbie Caillat': 'Mali'}"
+242,{'Colbie Caillat': 'Mali'}
+243,{'Verzache': 'Canada'}
+244,{'Verzache': 'Canada'}
+245,{'Los Retros': 'United States of America'}
+246,{'Crumb': 'United States of America'}
+247,{'Crumb': 'United States of America'}
+248,{'Crumb': 'United States of America'}
+249,{'Jayda G': 'Canada'}
+250,{'Eris Drew': 'N/A'}
+251,{'kryptogram': 'N/A'}
+252,{'kryptogram': 'N/A'}
+253,{'Lil Uzi Vert': 'U.S.'}
+254,{'Flipp Dinero': 'U.S.'}
+255,"{'Dam Swindle': 'N/A', 'Tom Misch': 'England'}"
+256,{'tricot': 'Japan'}
+257,{'Breaking Benjamin': 'U.S.'}
+258,"{'Phonat': 'N/A', 'Jolie': 'U.S.'}"
+259,"{'Phonat': 'N/A', 'Icarus': 'England'}"
+260,{'SpectraSoul': 'N/A'}
+261,{'Fountains Of Wayne': 'U.S.'}
+262,{'JAWNY': 'U.S.'}
+263,{'YG': 'U.S.'}
+264,"{'Cráneo': 'N/A', 'Made in M': 'N/A'}"
+265,{'Crazy Town': 'U.S.'}
+266,"{'Flight Facilities': 'Wales', 'Giselle': 'N/A'}"
+267,{'Total Giovanni': 'N/A'}
+268,{'Two Another': 'N/A'}
+269,"{'Ridney': 'N/A', 'Shannon B': 'N/A'}"
+270,{'JAWNY': 'U.S.'}
+271,{'Zack Villere': 'United States of America'}
+272,{'Zack Villere': 'United States of America'}
+273,{'Zack Villere': 'United States of America'}
+274,{'Rex Orange County': 'England'}
+275,{'Rex Orange County': 'England'}
+276,{'Rex Orange County': 'England'}
+277,{'Curtis Waters': 'U.S.'}
+278,{'binki': 'N/A'}
+279,{'Swizz Beatz': 'U.S.'}
+280,{'JAWNY': 'U.S.'}
+281,{'Tame Impala': 'Australia'}
+282,{'Jayda G': 'Canada'}
+283,{'Rob Araujo': 'N/A'}
+284,{'Bluejuice': 'Australia'}
+285,{'Mick Jenkins': 'U.S.'}
+286,{'Bruno Major': 'England'}
+287,{'Kornél Kovács': 'Sweden'}
+288,{'Hellogoodbye': 'N/A'}
+289,{'Bonobo': 'England'}
+290,{'Luke Vibert': 'UK'}
+291,{'Bruno Major': 'England'}
+292,{'Bruno Major': 'England'}
+293,{'Maggie Rogers': 'U.S.'}
+294,{'John Mayer': 'U.S.'}
+295,{'Korn': 'U.S.'}
+296,{'Axel Boman': 'Sweden'}
+297,{'The xx': 'England'}
+298,{'Rochelle Jordan': 'N/A'}
+299,{'Avicii': 'Sweden'}
+300,{'Rhye': 'Canada'}
+301,{'Gabriel Garzón-Montano': 'U.S.'}
+302,{'Gabriel Garzón-Montano': 'U.S.'}
+303,{'Olly Murs': 'England'}
+304,{'Dora Jar': 'N/A'}
+305,{'Doss': 'U.S.'}
+306,{'underscores': 'N/A'}
+307,{'Jai Wolf': 'United States'}
+308,{'Olivia Rodrigo': 'U.S.'}
+309,{'The Temper Trap': 'Australia'}
+310,{'Unknown Mortal Orchestra': 'New Zealand'}
+311,{'Jelani Aryeh': 'N/A'}
+312,{'Yellow Days': 'N/A'}
+313,{'Unknown Mortal Orchestra': 'New Zealand'}
+314,{'Unknown Mortal Orchestra': 'New Zealand'}
+315,{'Unknown Mortal Orchestra': 'New Zealand'}
+316,{'Bilderbuch': 'Austria'}
+317,{'Bilderbuch': 'Austria'}
+318,{'Deftones': 'U.S.'}
+319,{'Armando Young': 'N/A'}
+320,{'Raydio': 'U.S.'}
+321,{'Raydio': 'U.S.'}
+322,{'A Tribe Called Quest': 'U.S.'}
+323,"{""Barry Can't Swim"": 'N/A'}"
+324,{'Paris Texas': 'U.S.'}
+325,"{'Hiatus Kaiyote': 'Australia', 'Q-Tip': 'U.S.'}"
+326,"{'Q-Tip': 'U.S.', 'Norah Jones': 'U.S.'}"
+327,{'Bruce Trail': 'N/A'}
+328,"{'iamalex': 'N/A', 'Hip Dozer': 'N/A'}"
+329,"{'Vladimir Cauchemar': 'France', 'Asdek': 'N/A', 'Laylow': 'France', ""Rim'K"": 'France'}"
+330,"{'iamalex': 'N/A', 'Hip Dozer': 'N/A'}"
+331,{'Gavinco': 'N/A'}
+332,{'Rick Wade': 'N/A'}
+333,{'Soulwax': 'Belgium'}
+334,{'Soulwax': 'Belgium'}
+335,{'Soulwax': 'Belgium'}
+336,{'Paris Texas': 'U.S.'}
+337,{'Current Joys': 'U.S.'}
+338,{'Eagles': 'U.S.'}
+339,{'Christian Leave': 'US'}
+340,{'Christian Leave': 'US'}
+341,{'Bomba Estéreo': 'Colombia'}
+342,{'Real Friends': 'U.S.'}
+343,{'Dismemberment Plan': 'U.S.'}
+344,{'Mr. Bill': 'N/A'}
+345,"{'Nipsey Hussle': 'U.S.', 'Belly': 'United States', 'Dom Kennedy': 'U.S.'}"
+346,{'The White Lamp': 'N/A'}
+347,{'The White Lamp': 'N/A'}
+348,"{'p-rallel': 'N/A', 'Greentea Peng': 'UK'}"
+349,{'Natanael Cano': 'Mexico'}
+350,"{'Rich The Kid': 'Georgia', 'YoungBoy Never Broke Again': 'U.S.'}"
+351,"{'Natanael Cano': 'Mexico', 'Junior H': 'Mexico'}"
+352,"{'Eli Way': 'N/A', 'cehryl': 'Hong Kong'}"
+353,{'CLAIRE': 'N/A'}
+354,"{'Benny Sings': 'Netherlands', 'Mac DeMarco': 'Canada'}"
+355,{'King Garbage': 'N/A'}
+356,{'VIC MENSA': 'N/A'}
+357,{'Steve Lacy': 'U.S.'}
+358,{'Daedelus': 'U.S.'}
+359,{'BENEE': 'New Zealand'}
+360,{'Sum 41': 'Canada'}
+361,{'Sara Bareilles': 'U.S.'}
+362,{'dexter': 'N/A'}
+363,{'KillBunk': 'N/A'}
+364,"{'Quentin Miller': 'U.S.', 'Sy Ari': 'N/A'}"
+365,{'morgxn': 'N/A'}
+366,{'Basshunter': 'Sweden'}
+367,"{'Earth, Wind & Fire': 'U.S.'}"
+368,{'The Gap Band': 'U.S.'}
+369,{'Channel Tres': 'U.S.'}
+370,{'Channel Tres': 'U.S.'}
+371,{'Polo & Pan': 'France'}
+372,{'femdot.': 'N/A'}
+373,"{'Smino': 'U.S.', 'Jean Deaux': 'United States'}"
+374,{'Bambooman': 'N/A'}
+375,{'Danny Ocean': 'N/A'}
+376,{'Danny Ocean': 'N/A'}
+377,"{'The Marías': 'U.S.', 'Still Woozy': 'U.S.'}"
+378,{'The Marías': 'U.S.'}
+379,{'TEMPOREX': 'N/A'}
+380,{'Sure Sure': 'N/A'}
+381,{'ROSALÍA': 'N/A'}
+382,{'TEMPOREX': 'N/A'}
+383,"{'FKJ': 'France', '((( O )))': 'N/A'}"
+384,{'FKJ': 'France'}
+385,{'FKJ': 'France'}
+386,{'FKJ': 'France'}
+387,{'Fka Mash': 'N/A'}
+388,{'Dam Swindle': 'N/A'}
+389,{'Finch': 'Germany'}
+390,{'Calvin Harris': 'Scotland'}
+391,{'Corinne Bailey Rae': 'England'}
+392,{'tricot': 'Japan'}
+393,"{'Myd': 'France', 'JAWNY': 'U.S.'}"
+394,"{'Still Woozy': 'U.S.', 'ODIE': 'N/A'}"
+395,{'Mamalarky': 'N/A'}
+396,"{'Montell Jordan': 'U.S.', 'Wino': 'Japan'}"
+397,{'Tevin Campbell': 'U.S.'}
+398,{'Mary J. Blige': 'U.S.'}
+399,"{'Bizarrap': 'Argentina', 'Nicki Nicole': 'Argentina'}"
+400,{'Mamalarky': 'N/A'}
+401,{'Lucky Daye': 'U.S.'}
+402,"{'The City of Prague Philharmonic Orchestra': 'N/A', 'James Fitzpatrick': 'N/A'}"
+403,"{'Duckwrth': 'U.S.', 'Sabrina Claudio': 'U.S.'}"
+404,{'Desire': 'Canada'}
+405,{'Kaoma': 'France'}
+406,"{'Ashanti': 'U.S.', 'Nelly': 'U.S.', 'Akon': 'U.S.'}"
+407,{'Protest The Hero': 'Canada'}
+408,"{'Dee Tree': 'N/A', 'Saine': 'N/A'}"
+409,{'Ruze': 'N/A'}
+410,{'Babyxsosa': 'N/A'}
+411,{'Folamour': 'N/A'}
+412,{'Pavement': 'U.S.'}
+413,{'Delay': 'N/A'}
+414,{'Mamalarky': 'N/A'}
+415,{'NAV': 'Canada'}
+416,{'Linkin Park': 'U.S.'}
+417,{'Samantha Ronson': 'U.S.'}
+418,{'KSLV Noh': 'N/A'}
+419,{'KSLV Noh': 'N/A'}
+420,{'KSLV Noh': 'N/A'}
+421,"{'Dam Swindle': 'N/A', 'Mayer Hawthorne': 'U.S.'}"
+422,"{'Kerri Chandler': 'U.S.', 'Atjazz': 'N/A'}"
+423,{'Hunee': 'N/A'}
+424,"{'Jesse Bru': 'N/A', 'Max Ulis': 'N/A'}"
+425,{'Coeo': 'N/A'}
+426,{'Carpet Patrol': 'N/A'}
+427,{'HNNY': 'Sweden'}
+428,{'HNNY': 'Sweden'}
+429,{'Kesha': 'U.S.'}
+430,{'Borialis': 'N/A'}
+431,{'Pinback': 'U.S.'}
+432,{'Nirvana': 'U.S.'}
+433,{'Young Thug': 'U.S.'}
+434,{'HNNY': 'Sweden'}
+435,{'Knuckle Puck': 'U.S.'}
+436,"{'Curtis Waters': 'U.S.', 'Harm Franklin': 'N/A'}"
+437,{'LK': 'N/A'}
+438,"{'Edu Imbernon': 'N/A', 'Duologue': 'N/A'}"
+439,{'Sakro': 'N/A'}
+440,"{'Michel Degen': 'N/A', 'Mikhu': 'N/A'}"
+441,{'B77': 'N/A'}
+442,{'Niles Cooper': 'N/A'}
+443,{'Coastal': 'N/A'}
+444,"{'The Voyagers': 'N/A', 'Haris': 'N/A', 'Oliver Heldens': 'Netherlands'}"
+445,{'The Frightnrs': 'N/A'}
+446,{'Friendly Fires': 'England'}
+447,{'Skyharbor': 'United States'}
+448,{'Destiny Potato': 'N/A'}
+449,{'Moomin': 'N/A'}
+450,{'Men I Trust': 'Canada'}
+451,{'Men I Trust': 'Canada'}
+452,{'Men I Trust': 'Canada'}
+453,{'Max Graef': 'N/A'}
+454,{'Verzache': 'Canada'}
+455,{'Hovvdy': 'U.S.'}
+456,{'Hovvdy': 'U.S.'}
+457,{'Kate Bollinger': 'U.S.'}
+458,{'Kate Bollinger': 'U.S.'}
+459,{'Sports Team': 'United Kingdom'}
+460,{'Surf Curse': 'U.S.'}
+461,{'MICHELLE': 'United States of America'}
+462,{'MICHELLE': 'United States of America'}
+463,{'MICHELLE': 'United States of America'}
+464,{'MICHELLE': 'United States of America'}
+465,{'River Tiber': 'Canada'}
+466,{'Dominic Fike': 'U.S.'}
+467,{'347aidan': 'N/A'}
+468,{'Sudan Archives': 'U.S.'}
+469,"{'Oscar Lang': 'N/A', 'Wallice': 'U.S.'}"
+470,{'Rêve': 'Canada'}
+471,{'Snail Mail': 'U.S.'}
+472,{'Snail Mail': 'U.S.'}
+473,{'Zachary Knowles': 'N/A'}
+474,{'Pete Yorn': 'U.S.'}
+475,"{'Aaron May': 'N/A', 'JAY Millz': 'N/A'}"
+476,{'Yoshi T.': 'N/A'}
+477,{'Tom The Mail Man': 'N/A'}
+478,{'Starjunk 95': 'N/A'}
+479,{'Obskür': 'N/A'}
+480,{'32 Leaves': 'United States'}
+481,{'32 Leaves': 'United States'}
+482,{'32 Leaves': 'United States'}
+483,{'Lykke Li': 'Sweden'}
+484,{'Blood Orange': 'England'}
+485,{'Blood Orange': 'England'}
+486,{'Taro Asama': 'N/A'}
+487,{'Oden & Fatzo': 'N/A'}
+488,{'The Smashing Pumpkins': 'U.S.'}
+489,{'The Smashing Pumpkins': 'U.S.'}
+490,{'Bring Me The Horizon': 'England'}
+491,{'Underoath': 'U.S.'}
+492,{'Forever The Sickest Kids': 'United States'}
+493,{'Forever The Sickest Kids': 'United States'}
+494,{'August Burns Red': 'U.S.'}
+495,{'Forever The Sickest Kids': 'United States'}
+496,{'Frou Frou': 'UK'}
+497,"{'Frou Frou': 'UK', 'Imogen Heap': 'England', 'Guy Sigsworth': 'England'}"
+498,"{'Steve Lacy': 'U.S.', 'Fousheé': 'N/A'}"
+499,{'From First To Last': 'U.S.'}
+500,{'tricot': 'Japan'}
+501,{'The Fall of Troy': 'U.S.'}
+502,{'Tian Karl': 'N/A'}
+503,{'Mr. Fingers': 'U.S.'}
+504,{'Roy Blair': 'N/A'}
+505,{'Roy Blair': 'N/A'}
+506,{'Duster': 'U.S.'}
+507,{'Duster': 'U.S.'}
+508,{'Day Wave': 'U.S.'}
+509,{'SALES': 'United States'}
+510,{'Outlandish': 'Denmark'}
+511,{'Veil Of Maya': 'U.S.'}
+512,{'Veil Of Maya': 'U.S.'}
+513,{'Veil Of Maya': 'U.S.'}
+514,{'Born Of Osiris': 'U.S.'}
+515,{'Job For A Cowboy': 'U.S.'}
+516,{'Tyler Burkhart': 'N/A'}
+517,"{'Champion': 'Canada', 'Etta Bond': 'N/A'}"
+518,{'Allure': 'United States'}
+519,{'ROSALÍA': 'N/A'}
+520,"{'Jesse Maas': 'Netherlands', 'Limitu': 'N/A'}"
+521,{'Totally Enormous Extinct Dinosaurs': 'England'}
+522,{'Kat Leigh': 'N/A'}
+523,{'KLARDUST': 'N/A'}
+524,{'Obscura': 'Germany'}
+525,"{'Mellow Fellow': 'N/A', 'Clairo': 'U.S.'}"
+526,{'Garbage': 'U.S.'}
+527,"{'fun.': 'U.S.', 'Janelle Monáe': 'U.S.'}"
+528,{'fun.': 'U.S.'}
+529,{'Wild Party': 'N/A'}
+530,{'Lil Halima': 'N/A'}
+531,{'Slow Pulp': 'N/A'}
+532,{'Happy Dagger': 'N/A'}
+533,{'Limp Bizkit': 'U.S.'}
+534,{'Belmont': 'U.S.'}
+535,{'Steve Lacy': 'U.S.'}
+536,{'Girls of the Internet': 'N/A'}
+537,"{'Lee Foss': 'U.S.', 'Infinity Ink': 'England'}"
+538,{'Sacha Distel': 'France'}
+539,"{'Tchami': 'France', 'Kaleem Taylor': 'N/A'}"
+540,"{'AlunaGeorge': 'England', 'Tchami': 'France'}"
+541,"{'Polyphia': 'US', 'Mateus Asato': 'Brazil'}"
+542,{'The Kooks': 'England'}
+543,{'The Kooks': 'England'}
+544,{'Junior H': 'Mexico'}
+545,{'Junior H': 'Mexico'}
+546,{'Junior H': 'Mexico'}
+547,{'Natanael Cano': 'Mexico'}
+548,{'Unusual Demont': 'N/A'}
+549,{'Momma': 'N/A'}
+550,{'Eiafuawn': 'N/A'}
+551,{'Blue Smiley': 'N/A'}
+552,"{'Bien et Toi': 'N/A', 'sophie meiers': 'N/A'}"
+553,{'Spilly Cave': 'N/A'}
+554,{'Washed Out': 'U.S.'}
+555,{'Eiafuawn': 'N/A'}
+556,{'Hovvdy': 'U.S.'}
+557,{'Momma': 'N/A'}
+558,{'Focus': 'Netherlands'}
+559,"{'Kosmo Kint': 'N/A', 'Atjazz': 'United Kingdom'}"
+560,"{""Coral O'Connor"": 'N/A'}"
+561,{'St. Vincent': 'U.S.'}
+562,{'St. Vincent': 'U.S.'}
+563,{'V.I.C.A.R.I.': 'N/A'}
+564,"{'Carlo': 'N/A', 'Retromigration': 'N/A'}"
+565,"{'Black Loops': 'N/A', 'Nikoss': 'N/A'}"
+566,{'V.I.C.A.R.I.': 'N/A'}
+567,{'Russ': 'U.S.'}
+568,{'Marsicans': 'N/A'}
+569,{'Elli Ingram': 'England'}
+570,{'Matisse': 'France'}
+571,{'Matisse': 'France'}
+572,"{'CamelPhat': 'United Kingdom', 'Elderbrook': 'United Kingdom'}"
+573,"{'monte booker': 'N/A', 'Naji': 'N/A'}"
+574,"{'Eve': 'U.S.', 'Gwen Stefani': 'U.S.'}"
+575,"{'Flume': 'Australia', 'Jezzabell Doran': 'N/A'}"
+576,{'The Backseat Lovers': 'N/A'}
+577,{'Steve Lacy': 'U.S.'}
+578,{'Steve Lacy': 'U.S.'}
+579,{'Dreamer Isioma': 'N/A'}
+580,"{'NEIKED': 'Sweden', 'Mae Muller': 'England', 'Polo G': 'U.S.'}"
+581,{'The Drums': 'United States'}
+582,{'No Vacation': 'N/A'}
+583,{'Vacations': 'Wales'}
+584,{'Current Joys': 'U.S.'}
+585,{'The Backseat Lovers': 'N/A'}
+586,{'WILLOW': 'U.S.'}
+587,"{'Phoenix': 'France', 'Ezra Koenig': 'U.S.'}"
+588,{'Wunderhorse': 'N/A'}
+589,{'Dreamer Isioma': 'N/A'}
+590,{'Wunderhorse': 'N/A'}
+591,{'beabadoobee': 'England'}
+592,{'beabadoobee': 'England'}
+593,{'Stacey Ryan': 'Canada'}
+594,{'Beach Bunny': 'N/A'}
+595,{'Sushi Soucy': 'N/A'}
+596,{'Sushi Soucy': 'N/A'}
+597,{'Doll Spirit Vessel': 'U.S.'}
+598,{'Ian Pooley': 'Germany'}
+599,{'Bulldog Eyes': 'N/A'}
+600,"{'Linkin Park': 'U.S.', 'DJ Babu': 'N/A', 'Pharoahe Monch': 'United States', 'Evidence': 'U.S.'}"
+601,{'Valencia': 'United States'}
+602,{'Press Club': 'Australia'}
+603,{'Dezma': 'N/A'}
+604,{'Sol': 'United States'}
+605,{'Mr.Kitty': 'N/A'}
+606,{'Frou Frou': 'UK'}
+607,{'Trade Wind': 'N/A'}
+608,{'Remi Wolf': 'U.S.'}
+609,{'yunè pinku': 'N/A'}
+610,"{'Logic1000': 'N/A', 'yunè pinku': 'N/A'}"
+611,{'Doss': 'U.S.'}
+612,"{'blackwave.': 'Belgium', 'Abhi The Nomad': 'India'}"
+613,"{'blackwave.': 'Belgium', 'Lute': 'U.S.'}"
+614,{'SOFY': 'N/A'}
+615,{'Willow Kayne': 'N/A'}
+616,{'The Rare Occasions': 'US'}
+617,{'the bird and the bee': 'U.S.'}
+618,{'Ruby Empress': 'N/A'}
+619,"{'Anne-Marie': 'England', 'Nelson Oliver': 'N/A'}"
+620,{'Light Jazz Academy': 'N/A'}
+621,"{'The M Machine': 'United States', 'Blake Hazard': 'U.S.'}"
+622,"{'Blue Foundation': 'N/A', 'Zeds Dead': 'Canada'}"
+623,{'LF SYSTEM': 'N/A'}
+624,"{'Tony Romera': 'N/A', 'Karina Ramage': 'N/A'}"
+625,"{'James Hype': 'England', 'Miggy Dela Rosa': 'N/A'}"
+626,{'Destroy Lonely': 'U.S.'}
+627,{'The Moth & The Flame': 'United States'}
+628,{'Skee-Lo': 'U.S.'}
+629,"{'Estelle': 'England', 'Kanye West': 'U.S.'}"
+630,"{'Jack Thammarat': 'N/A', 'MAY PATCHARAPONG': 'N/A'}"
+631,{'Russ': 'U.S.'}
+632,{'Firehorse': 'N/A'}
+633,"{'Fabich': 'N/A', 'Pastel': 'N/A'}"
+634,{'Bell Biv DeVoe': 'U.S.'}
+635,{'Setenta': 'N/A'}
+636,"{'CAZZETTE': 'N/A', 'The High': 'England'}"
+637,{'Lorn': 'N/A'}
+638,{'Floating Points': 'UK'}
+639,{'Dan Kye': 'N/A'}
+640,{'Dan Kye': 'N/A'}
+641,{'The Beatles': 'England'}
+642,{'The Beatles': 'England'}
+643,{'Crazy Town': 'U.S.'}
+644,{'Avenged Sevenfold': 'U.S.'}
+645,"{'PLAYAMANE': 'N/A', 'Nateki': 'N/A'}"
+646,{'Taylor Dayne': 'US'}
+647,{'d4vd': 'U.S.'}
+648,{'d4vd': 'U.S.'}
+649,{'Joji': 'Japan'}
+650,{'Joji': 'Japan'}
+651,{'KAWALA': 'United Kingdom'}
+652,{'Thundercat': 'U.S.'}
+653,{'Grouplove': 'N/A'}
+654,{'KAWALA': 'United Kingdom'}
+655,{'Black Eyed Peas': 'U.S.'}
+656,{'Black Eyed Peas': 'U.S.'}
+657,{'Black Eyed Peas': 'U.S.'}
+658,{'Black Eyed Peas': 'U.S.'}
+659,{'Black Eyed Peas': 'U.S.'}
+660,{'Modjo': 'France'}
+661,{'Gym Class Heroes': 'U.S.'}
+662,"{'Nelly Furtado': 'Canada', 'Timbaland': 'U.S.'}"
+663,{'Black Eyed Peas': 'U.S.'}
+664,{'Rema': 'Nigeria'}
+665,{'Claire Laffut': 'N/A'}
+666,{'Ayra Starr': 'Nigeria'}
+667,{'Prince': 'U.S.'}
+668,{'Vacationer': 'United States'}
+669,{'Vacationer': 'United States'}
+670,{'Rob Araujo': 'N/A'}
+671,{'Amber Mark': 'U.S.'}
+672,{'Smash Mouth': 'U.S.'}
+673,{'Los Retros': 'U.S.'}
+674,{'Anomalie': 'N/A'}
+675,{'Anomalie': 'N/A'}
