@@ -1,5 +1,28 @@
 # Data-Projects-Deka
 
+
+### Spotify Playlist Analysis
+
+Things I learned
+
+* Web scraping wikipedia and other website
+* Spotify Features and Data Cleaning 
+
+[Python Notebook](./Python%20Notebooks/Spotify_Playlist_Analysis.ipynb)
+
+---
+
+### Kaggle - Hotel Dataset
+
+Things I learned
+
+* Memory optimization for pandas dataframes
+* Using plotly for visualization
+
+[Python Notebook](./Python%20Notebooks/kaggle-hotel-reservation-EDA-optimized-Deka.ipynb)
+
+---
+
 ### Playing with PySpark on a AWS Glue notebook
 
 Things I learned
